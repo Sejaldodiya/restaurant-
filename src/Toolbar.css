@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body{
+  background-image: 'https://th.bing.com/th/id/OIP.xB9xB0NbyaD2UCM91cnQEwHaE8?w=271&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7';
+}
+li {
+  float: left;
+}
+a {
+  text-decoration: none;
+  color: coral;
+  font-size: larger;
+}
+li a {
+  display: block;
+  padding: 8px;
+
+}
+li a:hover {
+  background-color: #555;
+  color: white;
+}
